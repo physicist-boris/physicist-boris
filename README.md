@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋,
+🔭 I’m currently working on a leaf disease recognition project using convolutional neural network algorithm.
 
 <!--
 **physicist-boris/physicist-boris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
