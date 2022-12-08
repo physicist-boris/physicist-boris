@@ -1,8 +1,16 @@
 ### Hi there 👋,
-🔭 I’m currently working on a leaf disease recognition project using convolutional neural network algorithm.
+🔭 I am a graduated physicist at Laval University with programming and machine learning experience.
+
+
+
+ <img align="center" alt="Coding" width="400" src="https://github.com/physicist-boris/physicist-boris/blob/main/neural_network_dog_cat_gif.gif">
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/physicist-boris/physicist-boris/blob/main/python-logo-only.png" alt="Python" width="50" height="60"/> </a> <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="https://github.com/physicist-boris/physicist-boris/blob/main/download.png" alt="Pandas" width="90" height="60"/> </a> <a href="https://www.tensorflow.org/?hl=fr" target="_blank"> <img src="https://github.com/physicist-boris/physicist-boris/blob/main/tensorflow-logo-AE5100E55E-seeklogo.com.png" alt="Tensorflow" width="90" height="60"/> </a> <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://github.com/physicist-boris/physicist-boris/blob/main/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="100" height="60"/> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://github.com/physicist-boris/physicist-boris/blob/main/1_aUSZsGFCMPNYCkQygs4aGQ.jpg" alt="Matplotlib" width="110" height="60"/> </a> <a href="https://scipy.org/" target="_blank"> <img src="https://github.com/physicist-boris/physicist-boris/blob/main/scipy.png" alt="SciPy" width="130" height="60"/> </a> </p>
 
 <!--
 **physicist-boris/physicist-boris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on a leaf disease recognition project using convolutional neural network algorithm.
 
 Here are some ideas to get you started:
 
